@@ -12,7 +12,7 @@ For Matplotlib, I practiced plotting line graphs, bar charts, histograms, and pi
 
 Used Pandas to clean and analyze data, then used Matplotlib to visualize insights through various types of plots. Focused on connecting data analysis with visual interpretation.
 
-In week 2, I covered concepts like supervised learning, cost functions, gradient descent, overfitting vs underfitting, and evaluation metrics in Machine Learning.
+I also covered concepts like supervised learning, cost functions, gradient descent, overfitting vs underfitting, and evaluation metrics in Machine Learning.
 
 Followed an Artificial Neural Networks playlist and learnt what perceptrons are, how neurons compute outputs, the role of activation functions (ReLU, Sigmoid, Tanh), forward propagation, and the intuition behind backpropagation.
 
